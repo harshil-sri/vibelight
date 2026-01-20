@@ -19,7 +19,6 @@
 VibeLight is a Python-based IoT controller that syncs your smart room lighting to the music you are currently playing. Unlike simple color grabbers, it uses **K-Means Clustering** and **Custom Saturation Biasing** to ensure the lights capture the *mood* of the song, not just the average pixel.
 
 ![Demo of Lights](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnFqY2k.../placeholder.gif)
-*(Replace this line with a GIF of your actual room!)*
 
 ## 🚀 Features
 
